@@ -10,3 +10,6 @@ The scan will be fed to a machine learning model that detects if parking spaces 
 The machine learning model will send the parking space data to a server hosting a mobile app.
 The mobile app will use the data to create and display a map of the parking lot to the mobile app user.
 The mobile app user will use the map too find the nearest unoccupied parking space.
+
+Link to demonstration of final project:
+https://www.youtube.com/watch?v=veE5finqBho
